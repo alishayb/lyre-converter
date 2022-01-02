@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lyre-converter/static/css/main.83dbe3c8.css",
-    "main.js": "/lyre-converter/static/js/main.077d496f.js",
-    "static/media/venti_cropped_2.svg": "/lyre-converter/static/media/venti_cropped_2.6304ed8a2f4cd4510283220c9d437cda.svg",
-    "static/media/white_musical_note.png": "/lyre-converter/static/media/white_musical_note.3766481502f2a0885d47.png",
-    "static/media/musical-note.png": "/lyre-converter/static/media/musical-note.833a55cf4bdab98eae96.png",
-    "index.html": "/lyre-converter/index.html",
-    "main.83dbe3c8.css.map": "/lyre-converter/static/css/main.83dbe3c8.css.map",
-    "main.077d496f.js.map": "/lyre-converter/static/js/main.077d496f.js.map"
+    "main.css": "/static/css/main.83dbe3c8.css",
+    "main.js": "/static/js/main.d03dc022.js",
+    "static/media/venti_cropped_2.svg": "/static/media/venti_cropped_2.6304ed8a2f4cd4510283220c9d437cda.svg",
+    "static/media/white_musical_note.png": "/static/media/white_musical_note.3766481502f2a0885d47.png",
+    "static/media/musical-note.png": "/static/media/musical-note.833a55cf4bdab98eae96.png",
+    "index.html": "/index.html",
+    "main.83dbe3c8.css.map": "/static/css/main.83dbe3c8.css.map",
+    "main.d03dc022.js.map": "/static/js/main.d03dc022.js.map"
   },
   "entrypoints": [
     "static/css/main.83dbe3c8.css",
-    "static/js/main.077d496f.js"
+    "static/js/main.d03dc022.js"
   ]
 }
